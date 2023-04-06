@@ -35,3 +35,6 @@
 7. **section 3.6.3** step3, the details on 1password are incorrect
         
         support contract ID & PIN
+ 
+8. for different clients, some accesses can be asked at the same time maybe? for exmaple: access to vaults
+9. verification page: link for jira& confluence maybe incorrect
